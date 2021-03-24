@@ -1,0 +1,35 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	background-image: url("../images/back.jpg");
+}
+
+h1{
+	margin: 0 50px;
+	text-align: center;
+	color: red;
+	font-size: 5em;
+}
+
+img{
+	float: left;
+}
+
+table{
+	float: right;
+	font-size: 1.8em;
+	padding: 0 10px 0 0;
+}
+th{
+	color: green;
+	background-color: #ffffff;
+	border: 2px solid green;
+}
+td{
+	margin: 0px;
+	background-color: #ffffff;
+	border: 2px solid #444444;
+}

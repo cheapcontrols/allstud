@@ -1,0 +1,13 @@
+#maincontent img{
+	width: 400px;
+	height: auto;
+	margin: auto;
+	display: block;
+}
+
+/**************   Smaller than 960 px  ************************/
+@media screen and (max-width: 960px){
+	#maincontent img{
+		width: 40vw;
+	}
+}
