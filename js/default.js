@@ -38,8 +38,8 @@ nav_menu += "<li";
 nav_menu += body_id == "policy"?" id='nav_sel'":"";
 nav_menu += "><a href='policy.html'>POLICY</a></li>";
 nav_menu += "<li";
-nav_menu += body_id == "contact"?" id='nav_sel'":"";
-nav_menu += "><a href='contact.html'>MUSINGS</a></li>";
+nav_menu += body_id == "musings"?" id='nav_sel'":"";
+nav_menu += "><a href='musings.html'>MUSINGS</a></li>";
 nav_menu += "<li><a href='original_site/index.html' target='blank'>ORIGINAL</a></li>";
 //nav_menu += "<li id='donate_button'><a href='#'></a></li>"
 //<li><a href="original_site/index.html" target="blank">ORIGINAL</a></li>
