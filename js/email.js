@@ -5,7 +5,7 @@ function SEND_EMAIL(){
   AJAX_EMAIL.open('POST', 'php/email.php', true);
   AJAX_EMAIL.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
   AJAX_EMAIL.onreadystatechange = SEND_EMAIL_RESPONSE;
-  if(document.querySelector("#contact_robot_code").value == "Flutterbird"){
+  if(document.querySelector("#contact_robot_code").value.toUpperCase() == "HUNKINESS"){
     var postString = 'SEND_EMAIL=nothing';
         postString += "&contact_name=";
         postString += "FROM Allstud dot net";

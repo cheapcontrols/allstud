@@ -39,7 +39,7 @@ nav_menu += body_id == "policy"?" id='nav_sel'":"";
 nav_menu += "><a href='policy.html'>POLICY</a></li>";
 nav_menu += "<li";
 nav_menu += body_id == "contact"?" id='nav_sel'":"";
-nav_menu += "><a href='contact.html'>CONTACT</a></li>";
+nav_menu += "><a href='contact.html'>MUSINGS</a></li>";
 nav_menu += "<li><a href='original_site/index.html' target='blank'>ORIGINAL</a></li>";
 //nav_menu += "<li id='donate_button'><a href='#'></a></li>"
 //<li><a href="original_site/index.html" target="blank">ORIGINAL</a></li>
@@ -53,7 +53,7 @@ nav_menu = "<ul>";
 nav_menu += "<li><a href='index.html'>HOME</a></li>";
 nav_menu += "<li><a href='faq.html'>FAQ</a></li>";
 nav_menu += "<li><a href='policy.html'>POLICY</a></li>";
-nav_menu += "<li><a href='contact.html'>CONTACT</a></li>";
+nav_menu += "<li><a href='contact.html'>MUSINGS</a></li>";
 nav_menu += "<li><a href='original_site/index.html' target='blank'>ORIGINAL</a></li>";
 nav_menu += "</ul>";
 

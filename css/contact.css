@@ -65,7 +65,7 @@
 	border-radius: 10px;
 }
 #contact_form li span{
-	background-color: #ae0000;
+	background-color: rgb(174,0,0,.5);
 	display: block;
 	padding: 3px;
 	width: 378px;
